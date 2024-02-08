@@ -1,1 +1,2 @@
-# Smallland_mgp
+# Mygameplatform.com
+for more information about the Sunkenland 
